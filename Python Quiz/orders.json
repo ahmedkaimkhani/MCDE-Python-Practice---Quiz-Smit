@@ -1,0 +1,26 @@
+[
+    {
+        "order_id": "48525ba5-2a48-45a2-aeae-e211535a700a",
+        "items": {
+            "P1": 2
+        },
+        "discount": 10,
+        "total": 180.0
+    },
+    {
+        "order_id": "d68a056e-8ca9-4e11-b30d-2a92a214fc94",
+        "items": {
+            "P1": 2
+        },
+        "discount": 10,
+        "total": 180.0
+    },
+    {
+        "order_id": "65551863-8bc1-4e65-a9a7-198269eff2ef",
+        "items": {
+            "P1": 2
+        },
+        "discount": 0,
+        "total": 200.0
+    }
+]
